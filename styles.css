@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 /* Styling for the modal container */
 .modal {
-    display: none;
+    display: block;
     position: fixed;
     top: 0;
     left: 0;
